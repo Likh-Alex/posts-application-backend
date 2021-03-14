@@ -1,4 +1,4 @@
-package com.dev.postsapp.controller;
+package com.dev.postsapp.dto;
 
 import lombok.Data;
 

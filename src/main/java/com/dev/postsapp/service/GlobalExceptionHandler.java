@@ -1,6 +1,6 @@
 package com.dev.postsapp.service;
 
-import com.dev.postsapp.controller.BaseResponse;
+import com.dev.postsapp.dto.BaseResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 

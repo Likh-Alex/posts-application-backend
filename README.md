@@ -4,7 +4,7 @@
 
 ### Application is created using `Java` and `Spring Boot`
 
-- Application fetches data from the API and sends the results to the cleint.
+- Application fetches data from the API and sends the results to the client.
 - Application has 2 controllers with corresponding endpoints:
 1. `CommentController` - in method `getComments` uses `ApiService`  to fetch `Comment` data.
    - Endpoint `http://localhost:8080/comments/`
@@ -20,9 +20,9 @@
 2. Download the [source code](https://github.com/Likh-Alex/posts-backend)
 3. Open the source code in your IDE and run `PostsApplication` class which is located in `src/main/java/com/dev/postsapp/`
 
-### Now application is able to fetch data from external API and redirect in to frontend.
+### Now application is able to fetch data from external API and redirect in to the client.
 
-- In order to see complete application please proceed with [frontend part](https://github.com/Likh-Alex/posts-frontend) setup, if you did not do it yet.
+- In order to render the data on the client side - please proceed with [frontend part](https://github.com/Likh-Alex/posts-frontend) setup, if you did not do it yet.
 
 
 

@@ -18,7 +18,7 @@
 
 ### Now application is able to fetch data from external API and redirect in to frontend.
 
-- In order to see complete application please proceed with [frontend part](https://github.com/Likh-Alex/posts-frontend) setup.
+- In order to see complete application please proceed with [frontend part](https://github.com/Likh-Alex/posts-frontend) setup, if you did not do it yet.
 
 
 

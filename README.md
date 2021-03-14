@@ -13,7 +13,7 @@
 2. `PostController` - identically to `CommentController` uses `ApiService` to fetch `Post` data from external API. 
    - Endpoint `http://localhost:8080/posts/`
 
-- `ApiService` class is using `HttpClient` to execute `GET` request by endpoint `https://jsonplaceholder.typicode.com/comments` and `https://jsonplaceholder.typicode.com/posts` for `CommentController` and `PostController` respectively.
+- `ApiService` class internally uses `HttpClient` to execute `GET` request by endpoint `https://jsonplaceholder.typicode.com/comments` and `https://jsonplaceholder.typicode.com/posts` for `CommentController` and `PostController` respectively.
 
 ### In order to run the application complete the following steps
 1. Download and Install [Maven](https://maven.apache.org)

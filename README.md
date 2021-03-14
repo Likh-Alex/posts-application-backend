@@ -8,6 +8,8 @@
 - Application has 2 controllers with corresponding endpoints:
 1. `CommentController` - in method `getComments` uses `ApiService`  to fetch `Comment` data.
    - Endpoint `http://localhost:8080/comments/`
+    
+
 2. `PostController` - identically to `CommentController` uses `ApiService` to fetch `Post` data from external API. 
    - Endpoint `http://localhost:8080/posts/`
 

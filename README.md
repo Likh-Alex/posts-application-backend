@@ -1,4 +1,4 @@
-## Posts application backend
+## Posts backend application
 
 ### This application serves to fetch data from public API - [JSON Placeholder](https://jsonplaceholder.typicode.com).
 

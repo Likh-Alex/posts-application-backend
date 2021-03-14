@@ -4,7 +4,7 @@
 
 ### Application is created using `Java` and `Spring Boot`
 
-- Application fetches data from the API and redirects the results to the frontend part.
+- Application fetches data from the API and sends the results to the frontend part.
 - Application has 2 controllers with corresponding endpoints:
 1. `CommentController` - in method `getComments` uses `ApiService`  to fetch `Comment` data.
    - Endpoint `http://localhost:8080/comments/`

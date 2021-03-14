@@ -7,7 +7,7 @@
 - Application fetches data from the API and redirects the results to the frontend part.
 - Application has 2 controllers with corresponding endpoints:
 1. `CommentController` - in method `getComments` uses `ApiService`  to fetch `Comment` data.
-2. `PostController` - identically to `CommentController` uses `ApiService` to fetch `Post` data from external API . 
+2. `PostController` - identically to `CommentController` uses `ApiService` to fetch `Post` data from external API.
 
 - `ApiService` class is using `HttpClient` to execute `GET` request by endpoint `https://jsonplaceholder.typicode.com/comments` and `https://jsonplaceholder.typicode.com/posts` for `CommentController` and `PostController` respectively.
 

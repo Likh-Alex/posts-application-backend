@@ -17,7 +17,7 @@
 3. Open the source code in your IDE and run `PostsApplication` class which is located in `src/main/java/com/dev/postsapp/`
 
 ### Now application is able to fetch data from external API and redirect in to frontend
-In order to pass the data to the frontend part and render it please proceed with [Frontend part](https://github.com/Likh-Alex/posts-frontend) setup, if you did not finish it yet.
+In order to use the data and render it on the frontend part - please proceed with [Frontend part](https://github.com/Likh-Alex/posts-frontend) setup, if you did not finish it yet.
 
 
 

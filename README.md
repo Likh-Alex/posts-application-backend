@@ -15,6 +15,7 @@
 
 - `ApiService` class internally uses `HttpClient` to execute `GET` request by endpoint `https://jsonplaceholder.typicode.com/comments` and `https://jsonplaceholder.typicode.com/posts` for `CommentController` and `PostController` respectively.
 
+
 ### In order to run the application complete the following steps
 1. Download and Install [Maven](https://maven.apache.org)
 2. Download the [source code](https://github.com/Likh-Alex/posts-backend)

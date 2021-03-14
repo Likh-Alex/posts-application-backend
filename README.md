@@ -15,9 +15,9 @@
 1. Download and Install [Maven](https://maven.apache.org)
 2. Download the [source code](https://github.com/Likh-Alex/posts-backend)
 3. Open the source code in your IDE and run `PostsApplication` class which is located in `src/main/java/com/dev/postsapp/`
-4. Now application is able to fetch data from external API and redirect in to frontend.
 
-### In order to see complete application please proceed with [Frontend part](https://github.com/Likh-Alex/posts-frontend) setup.
+### Now application is able to fetch data from external API and redirect in to frontend
+In order to see complete application please proceed with [Frontend part](https://github.com/Likh-Alex/posts-frontend) setup, if you did not finish it yet.
 
 
 

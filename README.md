@@ -1,6 +1,6 @@
 ## Posts application backend
 
-### This application serves to fetch data from public API [JSON Placeholder](https://jsonplaceholder.typicode.com).
+### This application serves to fetch data from public API - [JSON Placeholder](https://jsonplaceholder.typicode.com).
 
 ### Application is created using `Java` and `Spring Boot`
 

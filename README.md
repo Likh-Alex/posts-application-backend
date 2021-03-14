@@ -6,12 +6,13 @@
 
 - Application fetches data from the API and sends the results to the client.
 - Application has 2 controllers with corresponding endpoints:
+- Root endpoint is `http://localhost:8080/` 
 1. `CommentController` - in method `getComments` uses `ApiService`  to fetch `Comment` data.
-   - Endpoint `http://localhost:8080/comments/`
+   - Endpoint `/comments`
     
 
 2. `PostController` - identically to `CommentController` uses `ApiService` to fetch `Post` data from external API. 
-   - Endpoint `http://localhost:8080/posts/`
+   - Endpoint `/posts`
 
 - `ApiService` class internally uses `HttpClient` to execute `GET` request by endpoint `https://jsonplaceholder.typicode.com/comments` and `https://jsonplaceholder.typicode.com/posts` for `CommentController` and `PostController` respectively.
 
